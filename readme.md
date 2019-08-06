@@ -1,4 +1,6 @@
-#quadruped_rviz
+# quadruped_rviz
+
+---
 
 **Function:**
 - quadruped_util for path show
